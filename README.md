@@ -1,30 +1,20 @@
-# 🍳 Smart Chef – Data Structures Based Recipe Manager
+# 🍳 Smart Chef – Data Structures Recipe Manager
 
 ## 🚀 Overview
-Smart Chef is a Windows-based C application developed as part of a university CIA project.  
-It helps users manage recipes, track available ingredients, and generate cooking plans using multiple data structures.
+A Windows GUI application built in C using Win32 API that helps manage recipes, ingredients, and cooking plans using core data structures.
 
-## 🧠 Core Concepts Used
-This project demonstrates real-world use of fundamental data structures:
-
-- **Singly Linked List** → Recipe storage & ingredients
-- **Binary Search Tree (BST)** → Fridge inventory management
-- **Priority Queue** → Cooking plan (sorted by prep time)
-- **Doubly Linked List** → Shopping list
-- **Circular Linked List** → Featured recipes rotation
-- **Stack** → Recently viewed recipes
-- **File Handling** → Persistent fridge storage
+## 🧠 Data Structures Used
+- Linked Lists (SLL, DLL, Circular)
+- Binary Search Tree (BST)
+- Priority Queue
+- Stack
 
 ## ⚙️ Features
-- Add ingredients to fridge
-- View recipes based on availability
-- Track missing ingredients
-- Auto-generate shopping list
-- Plan meals by cooking time priority
-- View recently selected recipes
-- Featured meal suggestions
+- Manage fridge ingredients
+- View recipes & ingredient availability
+- Generate shopping list
+- Cooking queue based on prep time
+- Featured recipes rotation
 
-## 🖥️ Tech Stack
-- C Programming
-- Windows API (Win32 GUI)
-- Data Structures & Algorithms
+## 👤 Author
+Angaj Mohanan
